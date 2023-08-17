@@ -18,7 +18,7 @@ INF0417 - 202105857 - LYAN EDUARDO SAKUNO RODRIGUES
 
 Este projeto tem como objetivo desenvolver um algoritmo robusto para detectar e rastrear os limites das faixas em um vídeo utilizando técnicas tradicionais de visão computacional.
 
-![Exemplo de Detecção de Faixas](./readme_images/example_image.jpg)  
+![Exemplo de Detecção de Faixas](./example_image.jpg)  
 *Figura 1: Exemplo de detecção de faixas em uma estrada.*
 
 ## Requisitos
